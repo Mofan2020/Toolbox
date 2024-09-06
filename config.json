@@ -1,0 +1,36 @@
+{
+  "pluginConfig": [
+    {
+      "ID": "Toolbox_Plugin_my_plugin00.h",
+      "filename": "my_plugin00.h",
+      "pluginConfig": "ACT-0",
+      "menuShowName": "Plugin Assistant",
+      "about": "Plugin Assistant--Help you install plugins or upload a plugin.LANG:ZH_CN",
+      "author": "0"
+    },
+    {
+      "ID": "Toolbox_BasicPlugin0.h",
+      "filename": "basic_plugin.h",
+      "pluginConfig": "ACT-0",
+      "menuShowName": "ACT-DEFAULT_CONFIG",
+      "about": "There are many useful plugins.LANG:ZH_CN",
+      "author": "0"
+    }
+  ],
+  "Device&App Config": [
+    {
+      "DeviceName": "MacOS Local Terminal Environment",
+      "DeviceUUID": "NULL"
+    },
+    {
+      "DeviceName": "Administrator",
+      "DeviceUUID": "[AppID-AdminDevice-UUID]B1686059-2AF9-5C43-9B52-B8BE13941C"
+    }
+  ],
+  "TB-CONFIG": [
+    {
+      "ID": "NULL",
+      "DIR": "./"
+    }
+  ]
+}
